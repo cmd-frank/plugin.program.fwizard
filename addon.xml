@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.sea6ullwiz" name="SEA6ULL Wizard" version="1.0.0" provider-name="SEA6ULL">
+<addon id="plugin.program.fwizard" name="F Wizard" version="1.0.0" provider-name="cmd-frank">
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -9,7 +9,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">SEA6ULL Wizard</summary>
+		<summary lang="en_GB">F Wizard</summary>
 		<description lang="en_GB">Kodi Build and Maintenance Wizard</description>
 		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
 		<language>en</language>
